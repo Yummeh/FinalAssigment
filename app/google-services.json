@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "98744578212",
+    "firebase_url": "https://gamescores-805cf.firebaseio.com",
+    "project_id": "gamescores-805cf",
+    "storage_bucket": "gamescores-805cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98744578212:android:a347bf21abf1d06e",
+        "android_client_info": {
+          "package_name": "com.example.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98744578212-95kbuvqmrkjpmfcu0co8d02sd79irgrf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.game",
+            "certificate_hash": "cab4b2aade895124765343e6ad9987cb5140a18c"
+          }
+        },
+        {
+          "client_id": "98744578212-b5n467s8llobshc85e04ncn79prqtlci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvkYtRK_7AFFRqdToLYt6M1ekrAyOyJjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98744578212-b5n467s8llobshc85e04ncn79prqtlci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
